@@ -7,7 +7,7 @@ Data & AI Engineer with a strong focus on:
 - Computer Vision & Deep Learning in MedTech
 
 🔧 Tech Stack:
-Python · SQL · Docker · Power BI · Qlik · TensorFlow · PyTorch
+Python · SQL · Docker · Power BI · Pandas · PyTorch · TensorFlow
 
 📍 Germany
 🔗 LinkedIn: linkedin.com/in/fadi-abo-hadba-308003106
