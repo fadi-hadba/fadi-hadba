@@ -10,4 +10,4 @@ Data & AI Engineer with a strong focus on:
 Python · SQL · Docker · Power BI · Qlik · TensorFlow · PyTorch
 
 📍 Germany
-🔗 LinkedIn: 
+🔗 LinkedIn: linkedin.com/in/fadi-abo-hadba-308003106
